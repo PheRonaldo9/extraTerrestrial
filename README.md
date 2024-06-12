@@ -1,4 +1,4 @@
-# Universe - Celestial bodies Database Dump README
+# Universe - Celestial bodies database dump 
 
 ## Description
 This database dump contains information about galaxies, moons, planets, and stars. It was created from a PostgreSQL database version 12.17 using pg_dump version 12.17.
